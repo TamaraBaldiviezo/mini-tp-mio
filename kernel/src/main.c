@@ -4,7 +4,7 @@ int main(int argc, char* argv[]) {
     saludar("kernel");
     int cambio;
     int cambio2;
-    int cambio3 = 1;
-    char* cambio5 = "hola";
+    int cambio3 = 2;
+    int cambio 4 = 4;
     return 0;
 }
